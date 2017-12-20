@@ -22,8 +22,8 @@
     "url": "https://github.com/innovad/path-example.git"
   },
   "engines": {
-    "node": "7.10.1",
-    "npm": "4.0.5"
+    "node": "9.3.0",
+    "npm": "5.5.1"
   },
   "scripts": {
     "ng": "ng",
